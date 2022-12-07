@@ -1,5 +1,5 @@
 customHeaders:
-  - pattern: '/*'
+  - pattern: '**/*'
     headers:
     - key: 'x-testing-custom-header'
       value: 'yup they work'
